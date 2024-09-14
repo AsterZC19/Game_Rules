@@ -1,0 +1,20 @@
+# NAME: GarupaJP
+# AUTHOR: AsterZC19
+# REPO: https://github.com/AsterZC19/GarupaJP_Rule
+# UPDATE: 2024-09-14
+payload:
+  - DOMAIN-SUFFIX,adfurikun.jp
+  - DOMAIN-SUFFIX,adjust.com
+  - DOMAIN-SUFFIX,app.adjust.com
+  - DOMAIN-SUFFIX,easter-analytics.com
+  - DOMAIN-SUFFIX,exitgames.com
+  - DOMAIN-SUFFIX,garupa.jp
+  - DOMAIN-SUFFIX,icanhazip.com
+  - DOMAIN-SUFFIX,ipify.org
+  - DOMAIN-SUFFIX,unity3d.com
+  - DOMAIN-KEYWORD,adjust
+  - DOMAIN-KEYWORD,bandori
+  - DOMAIN-KEYWORD,garupa
+  - DOMAIN-KEYWORD,unity3d
+  - IP-CIDR,94.177.131.140/32
+  - IP_CIDR,31.223.184.154/32
