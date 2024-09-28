@@ -1,0 +1,9 @@
+# NAME: PartyAnimals
+# AUTHOR: AsterZC19
+# REPO: https://github.com/AsterZC19/Game_Rules
+# UPDATE: 2024-09-28
+payload:
+  - DOMAIN-SUFFIX,partyanimalsgame.com
+  - DOMAIN-KEYWORD,partyanimalsgame
+  - DOMAIN-KEYWORD,partyanimals
+  - IP-CIDR,43.200.6.199/32

@@ -1,6 +1,6 @@
 # NAME: GarupaJP
 # AUTHOR: AsterZC19
-# REPO: https://github.com/AsterZC19/GarupaJP_Rules
+# REPO: https://github.com/AsterZC19/Game_Rules
 # UPDATE: 2024-09-24
 payload:
   - DOMAIN-SUFFIX,adfurikun.jp
