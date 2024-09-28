@@ -6,8 +6,10 @@ payload:
   - DOMAIN-SUFFIX,partyanimalsgame.com
   - DOMAIN-KEYWORD,partyanimalsgame
   - DOMAIN-KEYWORD,partyanimals
-  - IP-CIDR,43.200.6.199/32
+  - DOMAIN-KEYWORD,ap-northeast-1
   - IP-CIDR,45.121.184.0/24
   - IP-CIDR,103.10.124.0/24
   - IP-CIDR,103.10.125.0/24
   - IP-CIDR,103.28.54.0/24
+  - IP-CIDR,35.77.92.228/32
+  - IP-CIDR,43.200.6.199/32
