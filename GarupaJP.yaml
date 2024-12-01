@@ -3,20 +3,9 @@
 # REPO: https://github.com/AsterZC19/Game_Rules
 # UPDATE: 2024-09-24
 payload:
-  - DOMAIN-SUFFIX,adfurikun.jp
-  - DOMAIN-SUFFIX,adjust.com
-  - DOMAIN-SUFFIX,app.adjust.com
-  - DOMAIN-SUFFIX,easter-analytics.com
-  - DOMAIN-SUFFIX,exitgames.com
   - DOMAIN-SUFFIX,garupa.jp
-  - DOMAIN-SUFFIX,icanhazip.com
-  - DOMAIN-SUFFIX,ipify.org
-  - DOMAIN-SUFFIX,unity3d.com
-  - DOMAIN-SUFFIX,pangle.io
-  - DOMAIN-KEYWORD,adjust
   - DOMAIN-KEYWORD,bandori
   - DOMAIN-KEYWORD,garupa
-  - DOMAIN-KEYWORD,unity3d
   - IP-CIDR,94.177.131.131/32
   - IP-CIDR,94.177.131.140/32
   - IP-CIDR,94.177.131.0/24
