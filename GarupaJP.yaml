@@ -1,7 +1,7 @@
 # NAME: GarupaJP
 # AUTHOR: AsterZC19
 # REPO: https://github.com/AsterZC19/Game_Rules
-# UPDATE: 2024-12-02
+# UPDATE: 2024-12-03
 payload:
   - DOMAIN-SUFFIX,adjust.com
   - DOMAIN-SUFFIX,adfurikun.jp
@@ -12,7 +12,6 @@ payload:
   - DOMAIN-SUFFIX,unity3d.com
   - DOMAIN-SUFFIX,pangle.io
   - DOMAIN-KEYWORD,adjust
-
   - DOMAIN-SUFFIX,garupa.jp
   - DOMAIN-SUFFIX,ns.exitgames.com
   - DOMAIN-KEYWORD,bandori
