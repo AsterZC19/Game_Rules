@@ -1,9 +1,10 @@
 # NAME: GarupaJP
 # AUTHOR: AsterZC19
 # REPO: https://github.com/AsterZC19/Game_Rules
-# UPDATE: 2024-09-24
+# UPDATE: 2024-12-02
 payload:
   - DOMAIN-SUFFIX,garupa.jp
+  - DOMAIN-SUFFIX,ns.exitgames.com
   - DOMAIN-KEYWORD,bandori
   - DOMAIN-KEYWORD,garupa
   - IP-CIDR,94.177.131.131/32
