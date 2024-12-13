@@ -1,10 +1,11 @@
 # NAME: GarupaJP
 # AUTHOR: AsterZC19
 # REPO: https://github.com/AsterZC19/Game_Rules
-# UPDATE: 2024-12-03
+# UPDATE: 2024-12-13
 payload:
   - DOMAIN-SUFFIX,adjust.com
   - DOMAIN-SUFFIX,adfurikun.jp
+  - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,easter-analytics.com
   - DOMAIN-SUFFIX,icanhazip.com
   - DOMAIN-SUFFIX,ipify.org
