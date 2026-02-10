@@ -1,7 +1,7 @@
 # NAME: GarupaJP
 # AUTHOR: AsterZC19
 # REPO: https://github.com/AsterZC19/Game_Rules
-# UPDATE: 2025-06-26
+# UPDATE: 2026-02-10
 payload:
   - DOMAIN-SUFFIX,adjust.com
   - DOMAIN-SUFFIX,adfurikun.jp
@@ -21,3 +21,4 @@ payload:
   - IP-CIDR,94.177.131.0/24
   - IP-CIDR,85.234.83.0/24
   - IP-CIDR,87.120.204.0/24
+  - IP-CIDR,82.117.224.0/24
