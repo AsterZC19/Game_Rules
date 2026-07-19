@@ -1,0 +1,28 @@
+# NAME: GarupaJP
+# AUTHOR: AsterZC19
+# REPO: https://github.com/AsterZC19/Game_Rules
+# UPDATE: 2026-07-19
+# CM Domain
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,adfurikun.jp
+DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,easter-analytics.com
+DOMAIN-SUFFIX,icanhazip.com
+DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,pangle.io
+DOMAIN-SUFFIX,ns.exitgames.com
+# Game Domain
+DOMAIN-SUFFIX,garupa.jp
+DOMAIN-SUFFIX,sekai.colorfulpalette.org
+DOMAIN-SUFFIX,pjsekai.sega.jp
+DOMAIN-KEYWORD,bandori
+DOMAIN-KEYWORD,garupa
+# Game Server IP
+IP-CIDR,94.177.131.131/32
+IP-CIDR,94.177.131.140/32
+IP-CIDR,31.223.184.0/24
+IP-CIDR,94.177.131.0/24
+IP-CIDR,85.234.83.0/24
+IP-CIDR,87.120.204.0/24
+IP-CIDR,82.117.224.0/24
